@@ -5,7 +5,8 @@ Content-Type: application/json
 "title":"project1"
 }
 
-### GET http://localhost:5000/todos
+###
+GET http://localhost:5000/todos
 
 ### GET http://loaclhost:5000/todos/655c70435a9d5980c859ecf8
 
